@@ -1,1 +1,1 @@
-# climb_smart
+# smart_climb
