@@ -1,6 +1,9 @@
 
 ![intro](/images/intro.png)
 
+<a href="blog.md/">Bitácora - PreAcademy 2020</a>
+
+
 # Objetivo
 El objetivo del proyecto es construir un sistema inteligente de entrenamiento para escalada indoor. El mismo consta de una serie de presas inteligentes y una aplicación para smartphones.
 Las presas están equipadas con una luz led RGB, conexión inalámbrica y un sensor de tacto.
