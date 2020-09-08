@@ -1,7 +1,7 @@
 
 ![intro](/images/intro.png)
 
-<a href="blog.md/">Bitácora - PreAcademy 2020</a>
+<a href="blog.md">Bitácora - PreAcademy 2020</a>
 
 
 # Objetivo

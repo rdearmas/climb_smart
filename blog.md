@@ -1,7 +1,7 @@
 
 ![intro](/images/intro.png)
 
-<a href="index.md/">Inicio</a>
+<a href="index.md">Inicio</a>
 
 # 07/09/2020 - Mejora de página web
 Se siguen explorando opciones para hacer la web más atractiva y expandir la información.
